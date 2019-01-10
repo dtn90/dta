@@ -1,0 +1,25 @@
+*** For Windows ***
+
+Visit https://nodejs.org/en/
+Follow instructions to install on Windows
+Restart Computer
+Open Hyper Terminal
+Type:
+
+node -v
+
+You should get back the version
+Type:
+
+npm -v
+
+You should get back the version
+Now test node by typing in the following:
+
+node hello.js
+
+The console should output: 
+
+Node is installed!!
+
+Congrats you installed node.
